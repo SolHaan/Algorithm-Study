@@ -28,19 +28,19 @@
 <br>
    
 ## 📆 Week
-|주차|문제|총 문제수|달성도|
-|:---:|:---:|:---:|:---:|
-|1주차(2021.12.06~2021.12.12)|[문자열](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ007/BOJ007)|10|10/10|
-|2주차(2021.12.13~2021.12.19)|[기본수학1](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ008/BOJ008)|9|9/9|
+|주차|문제|문제수|
+|:---:|:---:|:---:|
+|1주차(2021.12.06~2021.12.12)|[문자열](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ007/BOJ007)|10|
+|2주차(2021.12.13~2021.12.19)|[기본수학1](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ008/BOJ008)|8|
 |3주차(2021.12.20~2021.12.26)|크리스마스|-|-|
-|4주차(2021.12.27~2022.01.02)|[기본수학2](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ009/BOJ009), [재귀](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ010/BOJ010)|15|14/15|
-|5주차(2022.01.03~2022.01.09)|[브루트 포스](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ011/BOJ011), [정렬](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ012/BOJ012)|15|15/15|
-|6주차(2022.01.10~2022.01.16)|[백트래킹](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ14_backTracking/BOJ14_backTracking)|8|7/8|
-|7주차(2022.01.17~2022.01.23)|[동적 계획법1](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ15_DynamicProgramming/BOJ15_DynamicProgramming)|16|10/16|
+|4주차(2021.12.27~2022.01.02)|[기본수학2](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ009/BOJ009), [재귀](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ010/BOJ010)|13|
+|5주차(2022.01.03~2022.01.09)|[브루트 포스](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ011/BOJ011), [정렬](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ012/BOJ012)|15|
+|6주차(2022.01.10~2022.01.16)|[백트래킹](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ14_backTracking/BOJ14_backTracking)|8|
+|7주차(2022.01.17~2022.01.23)|[동적 계획법1](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ15_DynamicProgramming/BOJ15_DynamicProgramming)|1|
 |8주차(2022.01.24~2022.01.30)|설날|-|-|
-|9주차(2022.01.31~2022.02.06)|[그리디 알고리즘](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ16_greedy/BOJ16_greedy)|5|5/5|
-|10주차(2022.02.07~2022.02.13)|[스택](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ17_stack/BOJ17_stack), [큐, 덱](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ19_queue_deque/BOJ19_queue_deque)|13|13/13|
-|11주차(2022.02.14~2022.02.20)|[이분 탐색](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ21_Binary_Search/BOJ21_Binary_Search)|7|7/7|
+|9주차(2022.01.31~2022.02.06)|[그리디 알고리즘](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ16_greedy/BOJ16_greedy)|5|
+|10주차(2022.02.07~2022.02.13)|[스택](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ17_stack/BOJ17_stack), [큐, 덱](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ19_queue_deque/BOJ19_queue_deque)|13|
+|11주차(2022.02.14~2022.02.20)|[이분 탐색](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ21_Binary_Search/BOJ21_Binary_Search)|6|
 |12주차(2022.02.21~2022.02.27)|휴식|-|-|                                                 
-|13주차(2022.02.28~2022.03.13)|[DFS와 BFS](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ24_DFS_BFS/BOJ24_DFS_BFS)|11|6/11|
+|13주차(2022.02.28~2022.03.13)|[DFS와 BFS](https://github.com/SolHaan/Algorithm-Study/tree/main/4.%20HanSol_C%2B%2B/BOJ24_DFS_BFS/BOJ24_DFS_BFS)|9|
 |종료|-|-|-|
